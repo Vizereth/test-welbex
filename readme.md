@@ -1,8 +1,8 @@
-# Тестовое задание - макет Welbex
+# Макет Welbex
 
 ## Deploy
 
-https://vizereth.github.io/test-welbex
+https://nirvatia.github.io/web-welbex
 
 ## Установка зависимостей
 ```
