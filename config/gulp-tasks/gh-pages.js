@@ -9,7 +9,7 @@ export const deployGH = (done) => {
 		path.resolve(distPath),
 		{
 			branch: 'gh-pages',
-			repo: 'https://github.com/vizereth/test-welbex.git', 
+			repo: 'https://github.com/nirvatia/web-welbex.git', 
 			message: 'Deploy to gh-pages',
 		},
 		(err) => {
